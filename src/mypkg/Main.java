@@ -17,6 +17,8 @@ public class Main {
 
 		System.out.println( "Howdy!  My name is Wayne Pollock." );
 		counter++;
+                System.out.println( "This is 17. My name is Jair Garcia-Varela." );
+		counter++;
 
 
 
