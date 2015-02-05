@@ -19,6 +19,10 @@ public class Main {
 		counter++;
                 System.out.println( "This is 17. My name is Jair Garcia-Varela." );
 		counter++;
+		
+		System.out.println("The Dead have Risen! My name is Chris Howard.");
+		// Just added my name and a small sentence.
+		counter++;
 
 
 
