@@ -24,8 +24,7 @@ public class Main {
 		System.out.println("The Dead have Risen! My name is Chris Howard.");
 		// Just added my name and a small sentence.
 		counter++;
-
-
+                
 
 		System.out.println( "Number of people who edited this file: "
 				+ counter );
