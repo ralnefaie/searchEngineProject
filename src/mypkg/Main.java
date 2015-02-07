@@ -24,6 +24,9 @@ public class Main {
 		// Just added my name and a small sentence.
 		counter++;
                 
+                System.out.println("Hope I did this right. -Jason Kerby");
+                counter++;
+                
 
 		System.out.println( "Number of people who edited this file: "
 				+ counter );
