@@ -32,6 +32,22 @@ public class Main {
 		
 		System.out.println( "Hello, mortals. This is Kish Moore." );
 		counter++;
+                
+            //A convoluted way to add my name...
+                String[] myName = new String[5];
+                    myName[0] = "My ";
+                    myName[1] = "name ";
+                    myName[2] = "is ";
+                    myName[3] = "Corey ";
+                    myName[4] = "Gunter!";          
+                                
+                for (String myName1 : myName) {
+                    System.out.print(myName1);
+                }
+                System.out.print("\n");
+            
+                counter++;
+            //Ending of the convolution...    
 
 		System.out.println( "Number of people who edited this file: "
 				+ counter );
