@@ -29,6 +29,9 @@ public class Main {
                 
         System.out.println("David Blocher here.");
         counter++;
+		
+		System.out.println( "Hello, mortals. This is Kish Moore." );
+		counter++;
 
 		System.out.println( "Number of people who edited this file: "
 				+ counter );
