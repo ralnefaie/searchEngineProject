@@ -54,6 +54,9 @@ public class Main {
                 
                 System.out.println ("Hello. This is Liezyl Pintac. Yay!");
                 counter++;
+                
+                System.out.println("Hello Advanced Java! -John Silvey");
+                counter++;
                         
 
 		System.out.println( "Number of people who edited this file: "
