@@ -75,6 +75,12 @@ public class Main {
                 //ba		ck lef	 t corner. back     left       cor
                 counter++;//back l	 eft corner. ba      ck left corn	
                 
+                //Displays output
+                System.out.println("Yippy ki yay motha... er... um... "
+                            + "my friends? lol sup (^_^) -Haven Brewer");
+                //adds one to counter
+                counter++;
+                
 		System.out.println( "Number of people who edited this file: "
 				+ counter );
                
