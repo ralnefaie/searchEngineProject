@@ -92,6 +92,9 @@ public class Main {
                 
                 System.out.println( "Hello, this is Steven from Java 2 YAY!!!." );
 		counter++;
+		
+		System.out.println("Brannon Centeno trying to figure this out!!!!");
+		counter++;
                 
 		System.out.println( "Number of people who edited this file: "
 				+ counter );
