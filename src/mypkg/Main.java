@@ -83,6 +83,9 @@ public class Main {
                  */
                  System.out.println("I am wonding who else had errors - William Thompson");
                  counter++;
+                 
+                System.out.println("Hi my name is Jordan Hart");
+                counter++;
                 
                 
                 
