@@ -60,7 +60,9 @@ public class Main {
                 
                 System.out.println("Hi everybody, Alexis Here!");
                 counter++;
-
+                
+                System.out.println("Greetings!! From Alex Peterson");
+                counter++;
                 System.out.println(	 "He"                +"llo everyo"
                 +"n"  		+"e -"   +" "               +"J"         //
                 +"a"		+"mie"   +" "              +"B"      
