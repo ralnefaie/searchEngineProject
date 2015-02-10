@@ -78,6 +78,14 @@ public class Main {
                 //adds one to counter
                 counter++;
                 
+                /*W.T.- Had trouble getting project to run. Eclipse stated a classpath error for java.lang.Object
+                 * Fixed with Project->Properties ->Java Build Path ->Order and Export -> make sure all options are checked.
+                 */
+                 System.out.println("I am wonding who else had errors - William Thompson");
+                 counter++;
+                
+                
+                
 		System.out.println( "Number of people who edited this file: "
 				+ counter );
                
