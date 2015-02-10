@@ -63,6 +63,7 @@ public class Main {
                 
                 System.out.println("Greetings!! From Alex Peterson");
                 counter++;
+                //This looks about right.
                 System.out.println(	 "He"                +"llo everyo"
                 +"n"  		+"e -"   +" "               +"J"         //
                 +"a"		+"mie"   +" "              +"B"      
