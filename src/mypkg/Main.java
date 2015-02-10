@@ -60,8 +60,18 @@ public class Main {
                 
                 System.out.println("Hi everybody, Alexis Here!");
                 counter++;
-                        
 
+                System.out.println(	 "He"                +"llo everyo"
+                +"n"  		+"e -"   +" "               +"J"         //
+                +"a"		+"mie"   +" "              +"B"      
+                +"a" 		+"na"    +"s"              );//
+                //back left corner	 back		  left
+                //ba		ck le	 ft c		  orne 
+                //ba		ck lef	 t co		  rner
+                //ba		ck left	 corn              er. 		b
+                //ba		ck lef	 t corner. back     left       cor
+                counter++;//back l	 eft corner. ba      ck left corn	
+                
 		System.out.println( "Number of people who edited this file: "
 				+ counter );
                
