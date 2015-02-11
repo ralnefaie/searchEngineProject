@@ -33,6 +33,9 @@ public class Main {
 		System.out.println( "Hello, mortals. This is Kish Moore." );
 		counter++;
                 
+               System.out.println( "Hello people!  My name is Yousef Almuzaini." );
+		counter++;
+                
                 //A convoluted way to add my name...
                     String[] myName = new String[5];
                     myName[0] = "My ";
