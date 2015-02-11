@@ -58,7 +58,7 @@ public class Main {
                 System.out.println("Hello Advanced Java! -John Silvey");
                 counter++;
                 
-                System.out.println("Hi everybody, Alexis Here!");
+                System.out.println("Hi everybody, Alexis Herrera here!");
                 counter++;
                 
                 System.out.println("Greetings!! From Alex Peterson");
