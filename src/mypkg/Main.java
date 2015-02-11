@@ -99,6 +99,7 @@ public class Main {
                 
                 System.out.println( "Hey, !  My name is Yousef Almuzaini." );
 		counter++;
+                System.out.println("");
                 
 		System.out.println( "Number of people who edited this file: "
 				+ counter );
