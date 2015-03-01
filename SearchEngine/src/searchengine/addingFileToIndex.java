@@ -42,14 +42,12 @@ public class addingFileToIndex extends JPanel
         //Create a file chooser
         fc = new JFileChooser();
  
-        openButton = new JButton("Open a File...",
-                                 createImageIcon("images/Open16.gif"));
+        openButton = new JButton("SelectFile");
         openButton.addActionListener(this);
  
         //Create the save button.  We use the image from the JLF
         //Graphics Repository (but we extracted it from the jar).
-        saveButton = new JButton("Save a File...",
-                                 createImageIcon("images/Save16.gif"));
+        saveButton = new JButton("Add to Index");
         saveButton.addActionListener(this);
         
         
