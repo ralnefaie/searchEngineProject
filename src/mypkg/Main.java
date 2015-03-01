@@ -100,7 +100,7 @@ public class Main {
 		System.out.println("Brannon Centeno trying to figure this out!!!!");
 		counter++;     
                 
-                System.out.println("Hello Pople This is Faisal Almuammar ");
+                System.out.println("Hello Pople This is Faisal Almuammar -- :) ");
                 counter++;
                 
 		System.out.println( "Number of people who edited this file: "
