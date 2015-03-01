@@ -29,6 +29,7 @@ public class SearchEngine {
 } catch (Exception e) {
     e.printStackTrace();
 }  
+        // running the main program GUI from here 
         GUIsearch searchGUI = new GUIsearch();
         searchGUI.setVisible(true);
     
